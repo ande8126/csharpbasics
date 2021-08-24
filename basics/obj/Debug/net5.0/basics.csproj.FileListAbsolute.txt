@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/basics.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/basics.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/basics.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/basics.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/ref/basics.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/bin/Debug/net5.0/basics.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/ref/basics.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/basics/obj/Debug/net5.0/basics.genruntimeconfig.cache

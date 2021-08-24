@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/arguments.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/arguments.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/arguments.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/arguments.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/ref/arguments.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/bin/Debug/net5.0/arguments.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/ref/arguments.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/arguments/obj/Debug/net5.0/arguments.genruntimeconfig.cache

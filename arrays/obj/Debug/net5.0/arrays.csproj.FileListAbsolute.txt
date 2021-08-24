@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/arrays.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/arrays.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/arrays.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/arrays.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/ref/arrays.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/bin/Debug/net5.0/arrays.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/ref/arrays.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/arrays/obj/Debug/net5.0/arrays.genruntimeconfig.cache

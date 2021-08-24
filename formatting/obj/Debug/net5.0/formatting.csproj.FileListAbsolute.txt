@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/formatting.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/formatting.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/formatting.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/formatting.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/ref/formatting.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/bin/Debug/net5.0/formatting.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/ref/formatting.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/formatting/obj/Debug/net5.0/formatting.genruntimeconfig.cache

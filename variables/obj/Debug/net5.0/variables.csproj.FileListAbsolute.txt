@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/variables.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/variables.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/variables.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/variables.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/ref/variables.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/bin/Debug/net5.0/variables.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/ref/variables.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/variables/obj/Debug/net5.0/variables.genruntimeconfig.cache

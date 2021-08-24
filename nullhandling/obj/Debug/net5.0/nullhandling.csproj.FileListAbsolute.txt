@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/nullhandling.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/nullhandling.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/nullhandling.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/nullhandling.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/ref/nullhandling.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/bin/Debug/net5.0/nullhandling.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/ref/nullhandling.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/nullhandling/obj/Debug/net5.0/nullhandling.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/numbers.deps.json
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/numbers.runtimeconfig.json
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/numbers.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/numbers.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/ref/numbers.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/bin/Debug/net5.0/numbers.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.AssemblyInfo.cs
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/ref/numbers.dll
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.pdb
+/Users/patrickanderson/postprime/csharppackt/ch2/numbers/obj/Debug/net5.0/numbers.genruntimeconfig.cache
